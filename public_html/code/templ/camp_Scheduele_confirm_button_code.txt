@@ -1,0 +1,1 @@
+<input type='image' name='sfm_confirm' id='camp_Scheduele_sfm_confirm_img' src='images/camp_Scheduele-sfm_confirm-0.png' alt='submit'>
